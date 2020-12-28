@@ -1,5 +1,5 @@
-# Python-pillow-tesseract-opencv
-This repository stores the capstone project for the Python 3 Programming specialization by the University of Michigan. It includes:
+# FaceRecognizer
+This is the capstone project for the Python 3 Programming specialization by the University of Michigan. It includes:
 * Image manipulation using python imaging library - Pillow
 * Optical character recognition using tesseract and py-tesseract
 * Face-detection in images using opencv library
